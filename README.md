@@ -2,7 +2,7 @@
 
 This repository contains homework assignments for CS/CE 457/464, covering various topics in data science, machine learning, databases, and deep learning. Each assignment includes Python-based implementations using Pandas, SQL, MongoDB, and machine learning libraries.  
 
-## 📌 Assignments  
+## Assignments  
 
 1. **Data Cleaning & Wrangling** – Using Pandas to clean and preprocess messy datasets.  
 2. **Exploratory Data Analysis (EDA)** – Generating statistical summaries and visualizations.  
@@ -15,7 +15,7 @@ This repository contains homework assignments for CS/CE 457/464, covering variou
 9. **Natural Language Processing (NLP)** – Text analysis, sentiment analysis, and keyword extraction.  
 10. **Deep Learning** – Applying filters to images and training deep learning classifiers.
     
-## 📖 Requirements  
+## Requirements  
 
 Ensure you have the following libraries installed:  
 ```bash
